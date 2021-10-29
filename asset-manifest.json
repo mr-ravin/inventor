@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/inventor/static/css/main.42bc99f9.chunk.css",
-    "main.js": "/inventor/static/js/main.e0a32d09.chunk.js",
-    "main.js.map": "/inventor/static/js/main.e0a32d09.chunk.js.map",
+    "main.js": "/inventor/static/js/main.9d2b63ce.chunk.js",
+    "main.js.map": "/inventor/static/js/main.9d2b63ce.chunk.js.map",
     "runtime-main.js": "/inventor/static/js/runtime-main.2fb9eb60.js",
     "runtime-main.js.map": "/inventor/static/js/runtime-main.2fb9eb60.js.map",
     "static/js/2.bcad94bb.chunk.js": "/inventor/static/js/2.bcad94bb.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.2fb9eb60.js",
     "static/js/2.bcad94bb.chunk.js",
     "static/css/main.42bc99f9.chunk.css",
-    "static/js/main.e0a32d09.chunk.js"
+    "static/js/main.9d2b63ce.chunk.js"
   ]
 }
