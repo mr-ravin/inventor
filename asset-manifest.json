@@ -1,21 +1,14 @@
 {
   "files": {
-    "main.css": "/inventor/static/css/main.42bc99f9.chunk.css",
-    "main.js": "/inventor/static/js/main.c999a70e.chunk.js",
-    "main.js.map": "/inventor/static/js/main.c999a70e.chunk.js.map",
-    "runtime-main.js": "/inventor/static/js/runtime-main.0509d62c.js",
-    "runtime-main.js.map": "/inventor/static/js/runtime-main.0509d62c.js.map",
-    "static/js/2.5fb9baef.chunk.js": "/inventor/static/js/2.5fb9baef.chunk.js",
-    "static/js/2.5fb9baef.chunk.js.map": "/inventor/static/js/2.5fb9baef.chunk.js.map",
+    "main.css": "/inventor/static/css/main.d8df22e2.css",
+    "main.js": "/inventor/static/js/main.67d5d79c.js",
+    "static/media/Patent Certificate.pdf": "/inventor/static/media/Patent Certificate.20247443d594bd164549.pdf",
     "index.html": "/inventor/index.html",
-    "static/css/main.42bc99f9.chunk.css.map": "/inventor/static/css/main.42bc99f9.chunk.css.map",
-    "static/js/2.5fb9baef.chunk.js.LICENSE.txt": "/inventor/static/js/2.5fb9baef.chunk.js.LICENSE.txt",
-    "static/media/Patent Certificate.20247443.pdf": "/inventor/static/media/Patent Certificate.20247443.pdf"
+    "main.d8df22e2.css.map": "/inventor/static/css/main.d8df22e2.css.map",
+    "main.67d5d79c.js.map": "/inventor/static/js/main.67d5d79c.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0509d62c.js",
-    "static/js/2.5fb9baef.chunk.js",
-    "static/css/main.42bc99f9.chunk.css",
-    "static/js/main.c999a70e.chunk.js"
+    "static/css/main.d8df22e2.css",
+    "static/js/main.67d5d79c.js"
   ]
 }
