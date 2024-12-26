@@ -1,6 +1,6 @@
 {
-  "short_name": "Inventor's Life",
-  "name": "Inventions by Ravin Kumar",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
