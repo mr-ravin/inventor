@@ -22,7 +22,8 @@ function App() {
      <u>Resources</u>:
      <br/>
      <ol>
-     <li>Patent Certificate: <a target="_blank" rel="noopener noreferrer" href={patent1}>click here</a></li>
+     <li>Patent Certificate (fetch from github.com): <a target="_blank" rel="noopener noreferrer" href={patent1}>click here</a></li>
+     <li>Patent Certificate (fetch from archive.org): <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/patent-certificate-artificial-intelligence-enabled-automated-system-for-targeted">click here</a></li>
      </ol>
      </p>
     </li>
@@ -38,7 +39,8 @@ function App() {
      <u>Resources</u>:
      <br/>
      <ol>
-     <li>Patent Certificate: <a target="_blank" rel="noopener noreferrer" href={patent2}>click here</a></li>
+     <li>Patent Certificate (fetch from github.com): <a target="_blank" rel="noopener noreferrer" href={patent2}>click here</a></li>
+     <li>Patent Certificate (fetch from archive.org): <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/patent-certificate-a-portable-data-storage-device-for-secured-data-synchronizati">click here</a></li>
      </ol>
      </p>
     </li>
