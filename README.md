@@ -13,7 +13,8 @@
      <u>Resources</u>:
      <br/>
      <ol>
-     <li>Patent Certificate: <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/inventor/static/media/PatentCertificateAdvertise.20247443d594bd164549.pdf">click here</a></li>
+     <li>Patent Certificate (fetch from github.com): <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/inventor/static/media/PatentCertificateAdvertise.20247443d594bd164549.pdf">click here</a></li>
+     <li>Patent Certificate (fetch from archive.org): <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/patent-certificate-artificial-intelligence-enabled-automated-system-for-targeted">click here</a></li> 
      </ol>
      </p>
     </li>
@@ -27,7 +28,8 @@
      <u>Resources</u>:
      <br/>
      <ol>
-     <li>Patent Certificate: <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/inventor/static/media/PatentCertificateStorageDevice.fa3d048e457c160e6eef.pdf">click here</a></li>
+     <li>Patent Certificate (fetch from github.com): <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/inventor/static/media/PatentCertificateStorageDevice.fa3d048e457c160e6eef.pdf">click here</a></li>
+     <li>Patent Certificate (fetch from archive.org): <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/patent-certificate-a-portable-data-storage-device-for-secured-data-synchronizati">click here</a></li>
      </ol>
      </p>
     </li>
