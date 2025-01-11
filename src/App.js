@@ -9,9 +9,8 @@ function App() {
    <div class="middle">
     <ol>
       <li><u><b>List of Patented Inventions</b></u>:</li><br/>
-    <ol>
-    <li>
-    <b><u><a href={patent1} target="_blank" rel="noopener noreferrer" style={{color:"black"}}>ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES</a></u></b>,<br/>
+
+    <b>1. <u><a href={patent1} target="_blank" rel="noopener noreferrer" style={{color:"black"}}>ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES</a></u></b>,<br/>
     Application Number : 202041003260, Patent Number: 345169
     
      <p align="justify">
@@ -22,13 +21,13 @@ function App() {
      <u>Resources</u>:
      <br/>
      <ol>
-     <li>Patent Certificate (fetch from github.com): <a target="_blank" rel="noopener noreferrer" href={patent1}>click here</a></li>
-     <li>Patent Certificate (fetch from archive.org): <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/patent-certificate-artificial-intelligence-enabled-automated-system-for-targeted">click here</a></li>
+     <li>Patent Certificate: <a target="_blank" rel="noopener noreferrer" href={patent1}>click here</a></li>
+     <li>Patent Certificate: <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/patent-certificate-artificial-intelligence-enabled-automated-system-for-targeted">click here</a></li>
      </ol>
      </p>
-    </li>
-    <li>
-    <b><u><a href={patent2} target="_blank" rel="noopener noreferrer" style={{color:"black"}}>A PORTABLE DATA STORAGE DEVICE FOR SECURED DATA SYNCHRONIZATION AND ITS METHOD THEREOF</a></u></b>,<br/>
+    
+    
+    <b>2. <u><a href={patent2} target="_blank" rel="noopener noreferrer" style={{color:"black"}}>A PORTABLE DATA STORAGE DEVICE FOR SECURED DATA SYNCHRONIZATION AND ITS METHOD THEREOF</a></u></b>,<br/>
     Application Number : 202111056179, Patent Number: 411975
     
      <p align="justify">
@@ -39,15 +38,12 @@ function App() {
      <u>Resources</u>:
      <br/>
      <ol>
-     <li>Patent Certificate (fetch from github.com): <a target="_blank" rel="noopener noreferrer" href={patent2}>click here</a></li>
-     <li>Patent Certificate (fetch from archive.org): <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/patent-certificate-a-portable-data-storage-device-for-secured-data-synchronizati">click here</a></li>
+     <li>Patent Certificate: <a target="_blank" rel="noopener noreferrer" href={patent2}>click here</a></li>
+     <li>Patent Certificate: <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/patent-certificate-a-portable-data-storage-device-for-secured-data-synchronizati">click here</a></li>
      </ol>
      </p>
-    </li>
-    </ol>
     <li><u><b>List of Copyrighted Inventions</b></u>:</li><br/>
-    <ol>
-      <li><i><b><u>Embrace Language</u></b></i>,<br/>
+    <b>1. <i><u>Embrace Language</u></i></b>,<br/>
       Diary number: 6/2018-CO/SW
       <p align="justify">
       Embrace is a computer language designed and developed with the aim of making an artificial intelligence system. Embrace Language is independent of both Natural Language and its vocabulary.
@@ -59,8 +55,8 @@ function App() {
      </ol>
      </p>
       </p>
-      </li>
-      <li><i><b><u>Advis 1.0</u></b></i>,<br/>
+      
+      <b>2. <i><u>Advis 1.0</u></i></b>,<br/>
       Diary number: 8747/2019-CO/SW
       <p align="justify">
       Advis 1.0 is an artificial intelligence on edge-devices using live camera feed to analyse the audience along with other details such as weather etc. to then display advertisement on a DOOH Screen or any digital screen from the available pool of advertisements. Other details such as financials associated with the advertisements etc. are also used utilized to show the advertisement in realtime which is more likely to get audience attention and have a better audience to consumer conversion rate.
@@ -72,8 +68,6 @@ function App() {
      </ol>
      </p>
       </p>
-      </li>
-    </ol>
  
     </ol>
     
